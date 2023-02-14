@@ -3,7 +3,7 @@
     "applications": [
       {
         "name": "Student Portal",
-        "state": 0,
+        "state": 3,
         "message": {
           "date": "2022/03/31, 9:00 AM",
           "contents": ""
