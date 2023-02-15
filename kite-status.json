@@ -3,7 +3,7 @@
     "applications": [
       {
         "name": "Student Portal",
-        "status": 1,
+        "status": 0,
         "message": {
           "date": "2022/03/31, 9:00 AM",
           "contents": ""
@@ -17,15 +17,15 @@
       },
       {
         "name": "Educator Portal",
-        "status": 3,
+        "status": 0,
         "message": {
           "date": "2022/03/31, 9:00 AM",
           "contents": ""
         },
         "outages": [
           {
-            "date": "2022/03/30",
-            "downtime": 0
+            "date": "2023/02/14",
+            "downtime": 50
           }
         ]
       }
